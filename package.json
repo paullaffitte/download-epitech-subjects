@@ -1,0 +1,14 @@
+{
+  "name": "pull-epitech-pdfs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mkdirp": "^1.0.4",
+    "puppeteer": "^5.5.0",
+    "request": "^2.88.2"
+  }
+}
